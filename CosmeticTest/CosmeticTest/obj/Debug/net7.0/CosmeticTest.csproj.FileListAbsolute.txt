@@ -1,0 +1,15 @@
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\bin\Debug\net7.0\CosmeticTest.exe
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\bin\Debug\net7.0\CosmeticTest.deps.json
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\bin\Debug\net7.0\CosmeticTest.runtimeconfig.json
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\bin\Debug\net7.0\CosmeticTest.dll
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\bin\Debug\net7.0\CosmeticTest.pdb
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.dll
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\refint\CosmeticTest.dll
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.pdb
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\CosmeticTest.genruntimeconfig.cache
+C:\Users\NHTV\Desktop\ThuongMaiDienTu\PersonalProject\CosmeticTest\CosmeticTest\obj\Debug\net7.0\ref\CosmeticTest.dll
